@@ -1,0 +1,6 @@
+{
+  "name": "Bancassurance Exam Results System",
+  "description": "Official Bancassurance Department Exam Result Web Portal for viewing student marks, distinction breakdown, and subject performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
